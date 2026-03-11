@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/build/
+backend/dist/
+backend/*.spec
+backend/chroma_db/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Tauri build
+frontend/src-tauri/target/
+
+# OS
+.DS_Store
+Thumbs.db
