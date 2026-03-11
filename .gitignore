@@ -12,7 +12,7 @@ frontend/dist/
 
 # Tauri build
 frontend/src-tauri/target/
-
+frontend/src-tauri/filefind-backend.exe
 # OS
 .DS_Store
 Thumbs.db
